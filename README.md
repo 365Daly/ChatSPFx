@@ -21,6 +21,14 @@ To configure the ChatGPT webpart, open the webpart property pane and add your Op
 
 To use the ChatGPT webpart, simply add it to your SharePoint site or page, and start using the GPT-3.5 language model. You can use it to generate text, engage in a conversation, or any other use case that suits your needs.
 
+## Screenshots
+
+Here are some screenshots of the ChatGPT webpart in action:
+
+![Screenshot 1](./images/Screenshot 2023-04-22 213618.jpg)
+
+![Screenshot 2](./images/Screenshot 2023-04-22 213641.jpg)
+
 ## Feedback
 
 If you have any feedback, feature requests, or issues with the ChatGPT webpart, please feel free to create an issue in this repository. We appreciate your feedback and contributions to this project.
