@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "chat-spf-xv-2-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/chatSpfXv2/ChatSpfXv2WebPart.js",
+          "manifest": "./src/webparts/chatSpfXv2/ChatSpfXv2WebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "ChatSpfXv2WebPartStrings": "lib/webparts/chatSpfXv2/loc/{locale}.js"
+  }
+}

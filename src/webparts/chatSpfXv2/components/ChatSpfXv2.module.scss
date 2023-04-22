@@ -1,0 +1,81 @@
+.chatUI {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 100%;
+  height: 100%;
+  background-color: #f7f7f7;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.chatSpfXv2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 100%;
+  height: 100%;
+  background-color: #f7f7f7;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+
+.chatContainer {
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+  padding: 15px;
+  height: calc(100% - 80px);
+}
+
+.message {
+  font-size: 14px;
+  margin-bottom: 8px;
+  word-break: break-word;
+}
+
+.input {
+  width: 100%;
+  padding: 5px 10px;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  outline: none;
+}
+
+.submitButton {
+  cursor: pointer;
+  background-color: #0078d4;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 3px;
+  font-size: 14px;
+  margin-left: 10px;
+  transition: background-color 0.3s;
+}
+
+.submitButton:hover {
+  background-color: #005a9e;
+}
+
+.chatSpfXv2 {
+  // styles for chatSpfXv2
+}
+
+.teams {
+  // styles for teams
+}
+
+.welcome {
+  // styles for welcome
+}
+
+.welcomeImage {
+  // styles for welcomeImage
+}
+
+.links {
+  // styles for links
+}

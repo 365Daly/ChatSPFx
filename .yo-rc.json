@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "chat-spf-xv-2",
+    "libraryId": "9cc7b41d-26a2-4d7a-bca6-44d686a72b3b",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "chat-spf-xv-2",
+    "solutionShortDescription": "chat-spf-xv-2 description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

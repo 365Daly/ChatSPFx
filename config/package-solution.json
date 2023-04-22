@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "chat-spf-xv-2-client-side-solution",
+    "id": "9cc7b41d-26a2-4d7a-bca6-44d686a72b3b",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.14.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "chat-spf-xv-2 description"
+      },
+      "longDescription": {
+        "default": "chat-spf-xv-2 description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "chat-spf-xv-2 Feature",
+        "description": "The feature that activates elements of the chat-spf-xv-2 solution.",
+        "id": "1c7177bb-8c05-471e-b18a-71ebfee62b42",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/chat-spf-xv-2.sppkg"
+  }
+}
