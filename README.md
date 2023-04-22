@@ -26,7 +26,7 @@ To use the ChatGPT webpart, simply add it to your SharePoint site or page, and s
 Here are some screenshots of the ChatGPT webpart in action:
 
 ![Screenshot 1](./images/Screenshot-2023-04-22-213618.jpg)
-
+ b
 ![Screenshot 2](./images/Screenshot-2023-04-22-213641.jpg)
 
 ## Feedback
